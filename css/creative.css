@@ -447,3 +447,12 @@ body {
 .col-lg-42 {
   width: 200px;
 }
+
+.col-lg-3 {
+  width: 200px;
+}
+
+.service-row {
+  display: flex;
+  justify-content: space-around;
+}
