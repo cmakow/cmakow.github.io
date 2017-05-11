@@ -485,6 +485,7 @@ body {
   opacity: 0;
   color: white;
   text-align: center;
+  transition: opacity 0.5s;
 }
 
 .project-category {
@@ -494,7 +495,7 @@ body {
 }
 
 .project-title {
-  padding-top: 40px;
+  padding-top: 20px;
   font-size: 25px;
 }
 
