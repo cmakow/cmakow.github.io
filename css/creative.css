@@ -515,3 +515,30 @@ body {
   left: 400px;
   border-radius: 50%;
 }
+
+.orange_phone {
+  color: #F05F40;
+  margin-left: 85px;
+}
+
+.fa-angellist {
+  font-size: 35px;
+  padding-top: 6px;
+}
+
+#services {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.projects_button {
+  width: 130px;
+  background: #F05F40;
+  color: white;
+}
+
+.projects_button:hover {
+  background: #eb3812;
+  color: white;
+}
