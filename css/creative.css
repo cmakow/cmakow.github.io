@@ -542,3 +542,7 @@ body {
   background: #eb3812;
   color: white;
 }
+
+#page-top {
+  height: 1000px;
+}
